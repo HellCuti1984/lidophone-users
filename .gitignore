@@ -4,5 +4,5 @@
 /.fleet
 /.idea
 /.vscode
-
+.DS_Store
 ./server/./docker/db/*
